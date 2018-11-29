@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: OptionTree
- * Plugin URI:  https://github.com/ruturaaj/option-tree-extended
+ * Plugin Name: OptionTree Extended
+ * Plugin URI:  https://github.com/apolinariosteps/option-tree-extended
  * Description: Theme Options UI Builder for WordPress. A simple way to create & save Theme Options and Meta Boxes for free or premium themes.
- * Version:     2.9.07
- * Author:      Ruturaaj (Original Framework by Derek Herman)
+ * Version:     2.9.08
+ * Author:      Ruturaaj (Original Framework by Derek Herman, modifications by apolinario)
  * Author URI:  http://www.inovacreations.com
  * License:     GPLv3
  * Text Domain: option-tree
